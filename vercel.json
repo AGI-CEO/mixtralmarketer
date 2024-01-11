@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "functions": {
+    "api/scheduled-task.js": {
+      "runtime": "nodejs14.x"
+    }
+  },
+  "cron": [
+    {
+      "path": "/api/scheduled-newsletter",
+      "schedule": "0 * * * *"
+    }
+  ]
+}
