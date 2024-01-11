@@ -1,7 +1,9 @@
 {
   "version": 2,
   "functions": {
-    "api/scheduled-task.js": {}
+    "api/scheduled-task.js": {
+      "runtime": "@vercel/node18.x"
+    }
   },
   "crons": [
     {
