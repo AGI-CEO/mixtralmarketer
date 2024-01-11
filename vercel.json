@@ -1,10 +1,6 @@
 {
   "version": 2,
-  "functions": {
-    "api/scheduled-task.js": {
-      "runtime": "@vercel/nodejs18.x"
-    }
-  },
+
   "crons": [
     {
       "path": "/api/scheduled-newsletter",
