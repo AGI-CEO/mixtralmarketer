@@ -1,6 +1,8 @@
 import axios from "axios";
 import xml2js from "xml2js";
 
+export const runtime = "nodejs";
+
 export default async function handler(req, res) {
   try {
     const yesterday = new Date(Date.now() - 24 * 60 * 60 * 1000);
