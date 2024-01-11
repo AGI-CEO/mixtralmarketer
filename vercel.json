@@ -5,7 +5,7 @@
       "runtime": "nodejs14.x"
     }
   },
-  "cron": [
+  "crons": [
     {
       "path": "/api/scheduled-newsletter",
       "schedule": "0 * * * *"
