@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/scheduled-task.js": {
-      "runtime": "nodejs14.x"
+      "runtime": "nodejs@18.x"
     }
   },
   "crons": [
