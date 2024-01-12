@@ -13,7 +13,7 @@ export function Newsletter() {
               🚀 The AI Monitor - January 12, 2024
             </h2>
           </div>
-          <div className="prose prose-gray mx-auto max-w-prose dark:prose-invert space-y-8">
+          <div className="prose prose-gray mx-auto max-w-prose dark:prose-invert space-y-8 text-xl">
             <p>
               <strong>🤯 Supabase Hits 8k Members!</strong>
               <br />
