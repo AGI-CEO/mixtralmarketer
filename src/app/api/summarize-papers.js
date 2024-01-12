@@ -3,13 +3,10 @@ dotenv.config({ path: "../.env" });
 import axios from "axios";
 import fs from "fs";
 import path from "path";
-import { PDFLoader } from "langchain/document_loaders/fs/pdf";
 import { loadSummarizationChain } from "langchain/chains";
 import { ChatOpenAI } from "langchain/chat_models/openai";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import { TextLoader } from "langchain/document_loaders/fs/text";
-
-import { getDocument as pdfjsGetDocument } from "pdfjs-dist/legacy/build/pdf.js";
 
 import pdfParse from "pdf-parse";
 
