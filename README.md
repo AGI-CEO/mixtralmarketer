@@ -1,6 +1,18 @@
 ## AI Research Newsletter - Demo
+#### By Blaise Pascual
 
 This project is an advanced AI-based paper summarizer that leverages the power of Next.js and Vercel for seamless deployment and scalability. It automatically fetches AI-related papers, processes them using the Mixtral AI model, and provides concise summaries.
+
+## Case Study
+![image](https://github.com/AGI-CEO/mixtralmarketer/assets/29067169/ed72ee3a-6078-4a92-b7a1-d2c16942a352)
+
+Placed 2nd in the inaugural Mixtral MoE Hackathon 
+(https://lablab.ai/event/mixtral-8x7b-24-hours-challenge/langlabs/automarketer)
+
+![image](https://github.com/AGI-CEO/mixtralmarketer/assets/29067169/0d84d4ca-daef-4920-9811-c8418989339c)
+
+See it in action LIVE as part of my marketing strategy for my AI startup https://longevity.so
+
 
 ### Tech Stack
 
